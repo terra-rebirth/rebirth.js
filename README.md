@@ -1,13 +1,13 @@
 <p>&nbsp;</p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/classic-terra/terra.js/master/img/terrajs.svg" width=500>
+<img src="https://raw.githubusercontent.com/terra-rebirth/terra.js/master/img/terrajs.svg" width=500>
 </p>
 
 <p align="center">
 The JavaScript SDK for Terra
 </p>
 
-![diagram](https://raw.githubusercontent.com/classic-terra/terra.js/master/img/terrajs-diagram.png)
+![diagram](https://raw.githubusercontent.com/terra-rebirth/terra.js/master/img/terrajs-diagram.png)
 
 <br/>
 
@@ -22,11 +22,11 @@ The JavaScript SDK for Terra
   <br/>
   <a href="https://docs.terraclassic.community/docs/develop/sdks/terra-js/common-examples.html">Examples</a>
   ·
-  <a href="https://classic-terra.github.io/terra.js/">API Reference</a>
+  <a href="https://terra-classic.github.io/terra.js/">API Reference</a>
   ·
   <a href="https://www.npmjs.com/package/@terraclassic-community/terra.js">NPM Package</a>
   ·
-  <a href="https://github.com/classic-terra/terra.js">GitHub</a>
+  <a href="https://github.com/terra-rebirth/terra.js">GitHub</a>
 </p>
 
 Terra.js is a JavaScript SDK for writing applications that interact with the Terra blockchain from either Node.js, browser, or React Native environments and provides simple abstractions over core data structures, serialization, key management, and API request generation.
